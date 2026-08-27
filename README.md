@@ -35,12 +35,6 @@ Software Engineer focused on **Backend Development** with experience in **NodeJS
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
  
-## GitHub Stats
- 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSalah121&show_icons=true&theme=default&hide_border=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSalah121&layout=compact&theme=default&hide_border=true)
- 
 ---
  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsalah121/)
